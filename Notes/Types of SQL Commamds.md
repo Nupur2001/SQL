@@ -108,8 +108,4 @@ Then move to permissions with `GRANT` and `REVOKE`.
 - **TCL** = Manages *transactions*  
 - **DQL** = *Queries data*
 
----
 
-📘 *Purpose:* SQL Quick Reference for Beginners  
-📅 *Updated:* November 2025  
-🧑‍💻 *Author:* Nupur Sikka
