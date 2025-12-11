@@ -1,4 +1,4 @@
-# 📘SQL Cheat Sheet
+# 📘SQL Cheat 
 
 ## 🗂️ 1. Data Definition Language (DDL)
 
